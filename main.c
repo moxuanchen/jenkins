@@ -7,7 +7,8 @@ void say_hello_to_jenkins(void)
 
 void say_hello_to_jenkins_again(void)
 {
-    printf("Hello Jenkins, glad to see you again...\n");
+    printf("Hello Jenkins, glad to see you again 1...\n");
+    printf("Hello Jenkins, glad to see you again 2...\n");
 }
 
 int main(int argc, char *argv[])
